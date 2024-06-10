@@ -77,3 +77,25 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - **Your Name** - [E-mail](mailto:smitchitroda2210@gmail.com)
 - **Project Link** - [Code](https://github.com/IamSmitChitroda/weather_app)
+
+## Pages
+
+### Screenshot
+
+<p>
+  <img align = "left"  src = "https://github.com/IamSmitChitroda/weather_app/assets/143987366/dd8b8407-1f59-4a8c-b228-bef91105a15a" width=22% height=35% >
+  
+  <img align = "left"  src = "https://github.com/IamSmitChitroda/weather_app/assets/143987366/29832bb2-c3f0-455b-88d5-2c98d72ea286" width=22% height=35% >
+  
+  <img align = "left"  src = "https://github.com/IamSmitChitroda/weather_app/assets/143987366/4ab0c406-ab76-4420-9a00-7859c6910127" width=22% height=35% >
+  
+  <img align = "left"  src = "https://github.com/IamSmitChitroda/weather_app/assets/143987366/b0affade-d3a8-4710-b4dd-4c3046c226ae" width=22% height=35% >
+  
+</p>
+
+<p>
+  <img align = "left"  src = "https://github.com/IamSmitChitroda/weather_app/assets/143987366/9b3edc9a-b830-4a02-b045-1b92d02c3380" width=22% height=35% >
+  
+  <img align = "left"  src = "https://github.com/IamSmitChitroda/weather_app/assets/143987366/44ee7509-b3a4-4f57-90bf-b6a07367b66a" width=22% height=35% >
+  
+</p>
